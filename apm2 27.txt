@@ -1,0 +1,50 @@
+*algo hicieron con github
+*formato wireframe
+
+prototipo
+
+simulación del producto que queremos entregar
+inicio como boceto ->dropbox
+
+buscar experiencia de usuario
+
+wireframe-boceto esqueleto sin la capa visual final (muestra contenido, elementos y comportamiento en notas)
+mockup-prototipo puede tener mas definiciones visuales puede mostrar interacciones
+
+
+DISEÑO CENTRADO EN EL USUARIO
+
+lluvia de ideas para buscar un concepto (personal técnico para aterrizar ideas de los diseñadores)
+
+boceto "al usuario le gustan los muñequitos" 10 a 30 minutos
+
+prototipos depuración de ideas buscar q funciona y que no
+
+pruebas y testing con usuarios
+
+piwik analitics gratis
+------------------------
+prototipado eficaz
+
+no buscar perfección
+conocer los usuarios target
+early adopter - primeros feedback (betas preventas primeros compradores) si se requiere o si aplica
+validar ideas y diseño, pruebas a/b
+
+gamification - dinamicas de juego en contextos de no juego
+
+mongodb nosql-> documentales, grafos, clave valor, big tables
+
+wamp windows
+xamp linux
+
+mongodb universe certificaciones 202 freeeeeee
+
+capptivate.co
+
+lofi prototipo basico, sin distracciones, no se centra en lo visual, tareas especificas, no general
+hifi prototipo avanzado
+
+MOOCS
+
+zurb

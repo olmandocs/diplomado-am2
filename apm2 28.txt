@@ -1,0 +1,21 @@
+DOM leee secuencialmente los archivos declarados
+placehold.it imagenes de tamaño
+
+grilla
+imagenes
+
+sublime package control-emmet la puta polla :O
+
+prefix free ayuda a quitar prefijos
+
+JS
+---
+
+// comentario una linea js
+/* */ comentario js
+/** comentario doc js
+
+var length = 16;                               // Number
+var lastName = "Johnson";                      // String
+var cars = ["Saab", "Volvo", "BMW"];           // Array
+var x = {firstName:"John", lastName:"Doe"};    // Object
